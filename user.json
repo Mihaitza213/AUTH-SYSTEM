@@ -9,7 +9,7 @@
         },
         {
             "username": "Leo",
-            "password": "1",
+            "password": "$2y$12$rTr0mhTJ4JhHoADbfL2rzOvYxqRxPTXxAwrmR1JxqE8rS4q8JvqQe",
             "subscription": "aimkillapk",
             "expiry": "2028-06-03",
             "device_id": ""
