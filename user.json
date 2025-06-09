@@ -12,13 +12,6 @@
             "password": "$2a$12$D1KlQZX.gNAu.rozvPYA3u.Ra8r1tO3SeTwI5ZLrDO5s5Jj7X5NVi",
             "subscription": "aimkillapk",
             "expiry": "2028-06-03",
-            "device_id": "67d6d33fc6eac6a5"
-        },
-        {
-            "username": "Adii",
-            "password": "$2y$12$XjSLgu\/JEyM7z8Ny86gEBOJAM35w4XJ72lV21yguh2lpSWWAZfwim",
-            "subscription": "aimkillapk",
-            "expiry": "2028-03-01",
             "device_id": ""
         }
     ]
